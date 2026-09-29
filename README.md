@@ -6,16 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=6366F1&center=true&vCenter=true&width=750&lines=AI+Engineer;ML+Engineer;Automation+Developer" />
 
-<br>
-
-<a href="https://deepdavara03.github.io/DEEP_RESUME/">
-<img src="https://img.shields.io/badge/🚀_View_My_Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Deepdavara03/DEEP_RESUME">
-<img src="https://img.shields.io/badge/💻_Portfolio_Repository-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
-</a>
-
 </div>
 
 <br>
@@ -57,6 +47,7 @@
 
 <br>
 
+
 ## 📚 Currently Learning
 
 ```text
@@ -71,3 +62,38 @@
 🔄 AI Agents
 🔄 LLM Applications
 🔄 MLOps
+```
+
+<br>
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Deepdavara03">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/deep-davara-076180357/)">
+<img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+</a>
+
+<a href="mailto:deepdavara2809@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-E05252?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+</a>
+
+</p>
+
+<br>
+
+<div align="center">
+
+### 💡 "Without data, you're just another person with an opinion."
+
+⭐ **Always Learning • Always Building • Always Improving**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" />
+
+</div>
