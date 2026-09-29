@@ -102,9 +102,9 @@
 
 <div align="center">
 
-### 💡 "Without data, you're just another person with an opinion."
+### 💡Curiosity drives discovery. Innovation turns ideas into impact.
 
-⭐ **Always Learning • Always Building • Always Improving**
+⭐ **Always Learning • Explore • Build •  Improve**
 
 <br>
 
