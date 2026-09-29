@@ -6,9 +6,19 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=6366F1&center=true&vCenter=true&width=750&lines=AI+Engineer;ML+Engineer;Automation+Developer" />
 
+<br>
+
+<a href="https://deepdavara03.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/🚀_View_My_Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View My Portfolio"/>
+</a>
+
+
+
 </div>
 
 <br>
+
+---
 
 ## 🚀 About Me
 
@@ -22,6 +32,8 @@
 - 🎯 Focused on building intelligent, scalable, and automated systems
 
 <br>
+
+---
 
 ## 🛠️ Skills & Technologies
 
@@ -47,6 +59,7 @@
 
 <br>
 
+---
 
 ## 📚 Currently Learning
 
@@ -58,6 +71,7 @@
 ✅ Computer Vision
 ✅ FastAPI
 ✅ AI Automation
+
 🔄 Generative AI
 🔄 AI Agents
 🔄 LLM Applications
