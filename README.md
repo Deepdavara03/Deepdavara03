@@ -74,7 +74,7 @@
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/deep-davara-076180357/)">
+<a href="https://www.linkedin.com/in/deep-davara-076180357/">
 <img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 
